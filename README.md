@@ -16,4 +16,4 @@ Bash language support for TestMyCode
 
 [C# and Bash TMC Work Log](https://docs.google.com/spreadsheets/d/1Rt5mwHxZ2K8hD5x_bWhNBSTf3l27u-j-_Dcka2V3l10/edit?usp=sharing)
 
-[Definition of Done](https://github.com/TMC-CSharp/tmc-bash/blob/master/definitionofdone.md)
+[Definition of Done](https://github.com/tmc-bash/tmc-bash/blob/master/definitionofdone.md)
